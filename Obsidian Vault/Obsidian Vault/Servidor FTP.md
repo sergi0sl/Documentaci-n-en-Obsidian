@@ -1,0 +1,5 @@
+*FTP es un protocolo o método de comunicación que te permite cargar y descargar archivos desde o hacia un computador llamador servidor y a otro llamado cliente.* También se puede establecer el protocolo FTP entre dos servidores, llegando a transferir toda clase de archivos, tanto de texto, como fotos y videos.
+
+La conexión se estable no importando si usas #Windows, #Linux, Mac u otros que se utilice. Solo se debe implementar un modelo de capas de red llamado #TCP/IP, unido a una clave secreta y es así como se establece el enlace entre ambos equipos.
+
+En resumen, este tipo de servidor se ejecutará mediante la conexión a internet del computador. Además, tiene como objetivo el suministro de datos en una red TCP/IP. El protocolo de transferencia FTP se encarga de administrar las conexiones y permitir el flujo de información entre los distintos clientes.
